@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Timmy",
+        "image": "https://wh1k8zidop.inscname.net/big/389243.jpg?v=1462392415",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Daffy",
+        "image": "https://www.pcquest.com/wp-content/uploads/2018/11/cartoon-characters-4.jpg",
+        "count": 0
+    },  
+    {
+        "id": 3,
+        "name": "Fred",
+        "image": "https://mytebox.com/photos/134/Fred-Flintstone-cartoon-characters.webp",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Mouse",
+        "image": "https://i.pinimg.com/originals/dd/22/35/dd223592a3db79a6d26761d247e8c7de.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Scooby",
+        "image": "https://erinsweeneydesign.com/wp-content/uploads/2014/03/1964883_726923827347640_695294356_n.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Simpson",
+        "image": "https://img.s-msn.com/tenant/amp/entityid/BB3dA0d.img?h=451&w=624&m=6&q=60&o=f&l=f&x=510&y=425",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Angelica",
+        "image": "https://vignette.wikia.nocookie.net/rugratseries/images/2/2a/Angeilca.jpg/revision/latest/scale-to-width-down/200?cb=20110202050259",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Susie",
+        "image": "https://costumewall.com/wp-content/uploads/2018/09/susy-carmichael.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Tommy",
+        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/tommy-pickles-the-rugrats-movie-78.5.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Arnold",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/HeyArnold%21.jpg/150px-HeyArnold%21.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Skeeter",
+        "image": "https://costumewall.com/wp-content/uploads/2018/08/skeeter-valentine.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Doug",
+        "image": "https://vignette.wikia.nocookie.net/doug/images/f/fc/GrabberRaster_0009.jpeg/revision/latest?cb=20111006213755",
+        "count": 0
+    }
+]
